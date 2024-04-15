@@ -15,7 +15,7 @@ public class SeleniumTestsForPractice
         var driver = new ChromeDriver(options);
         
         driver.Navigate().GoToUrl("https://staff-testing.testkontur.ru");
-        Thread.Sleep(3000);
+       
 
         var login = driver.FindElement(By.Id("Username"));
         login.SendKeys("alljaz@yandex.ru");

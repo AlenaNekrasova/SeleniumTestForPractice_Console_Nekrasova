@@ -192,3 +192,4 @@ C:\Users\Alena\RiderProjects\Seleniumtests_Nekrasova_ForConsole\Seleniumtests_Ne
 C:\Users\Alena\RiderProjects\Seleniumtests_Nekrasova_ForConsole\Seleniumtests_Nekrasova\obj\Debug\net6.0\Seleniumtests_Nekrasova.pdb
 C:\Users\Alena\RiderProjects\Seleniumtests_Nekrasova_ForConsole\Seleniumtests_Nekrasova\obj\Debug\net6.0\Seleniumtests_Nekrasova.genruntimeconfig.cache
 C:\Users\Alena\RiderProjects\Seleniumtests_Nekrasova_ForConsole\Seleniumtests_Nekrasova\obj\Debug\net6.0\ref\Seleniumtests_Nekrasova.dll
+C:\Users\Alena\RiderProjects\Seleniumtests_Nekrasova_ForConsole\Seleniumtests_Nekrasova\obj\Debug\net6.0\Seleniumtests_Nekrasova.sourcelink.json
